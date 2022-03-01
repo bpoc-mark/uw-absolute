@@ -29,6 +29,24 @@
 		</header>
 
 		<main>
+			<section class="hero">
+				<div class="container">
+					<div class="content">
+						<div class="img1">
+							<picture >
+								<source srcset="/images/top/hero/sp/img_1.png" media="(max-width: 899px)">
+								<img src="/images/top/hero/img_1.png" alt="短期間で効果を実感!! | とにかく | 早く結果が出る | ハイパワー脱毛!! | 美肌機能で、毛穴、ニキビ、ブツブツ、黒ズミも、同時にケア！ | 業界 最高峰 出力！ | 女性・男性・お子様 施術可能！">
+							</picture>
+						</div>
+						<div class="img2">
+							<picture >
+								<source srcset="/images/top/hero/sp/img_2.png" media="(max-width: 899px)">
+								<img src="/images/top/hero/img_2.png" alt="脱毛終了まで 最短6回 | 医療クリニック でも使用中の脱毛器 浜松初導入！ | 1回の 施術時間が短い！">
+							</picture>
+						</div>
+					</div>
+				</div>
+			</section>
 			<section class="cta pb-100">
 				<div class="container">
 					<h3 class="cta--ttl">
@@ -50,13 +68,13 @@
 					</div>
 				</div>
 			</section>
-			<section class="treatment">
+			<section class="treatment" id="treatment">
 				<div class="container">
 					<div class="content">
 						<div class="row">
 							<div class="col">
 								<div class="img-wrap">
-									<img src="/images/treatment/img_1.jpg" alt="脱  毛">
+									<img src="/images/top/treatment/img_1.jpg" alt="脱  毛">
 								</div>
 							</div>
 							<div class="col">
@@ -69,7 +87,7 @@
 						<div class="row row-reverse">
 							<div class="col">
 								<div class="img-wrap">
-									<img src="/images/treatment/img_2.jpg" alt="痩  身">
+									<img src="/images/top/treatment/img_2.jpg" alt="痩  身">
 								</div>
 							</div>
 							<div class="col">
@@ -82,7 +100,7 @@
 						<div class="row">
 							<div class="col">
 								<div class="img-wrap">
-									<img src="/images/treatment/img_3.jpg" alt="ハーブピーリング">
+									<img src="/images/top/treatment/img_3.jpg" alt="ハーブピーリング">
 								</div>
 							</div>
 							<div class="col">
@@ -96,7 +114,7 @@
 						<div class="row row-reverse">
 							<div class="col">
 								<div class="img-wrap">
-									<img src="/images/treatment/img_4.jpg" alt="陶肌トリートメント">
+									<img src="/images/top/treatment/img_4.jpg" alt="陶肌トリートメント">
 								</div>
 							</div>
 							<div class="col">
@@ -109,7 +127,7 @@
 					</div>
 				</div>
 			</section>
-			<section class="menu">
+			<section class="menu" id="menu">
 				<div class="container">
 					<div class="content">
 						<div class="p-head">
@@ -206,7 +224,7 @@
 					</div>
 				</div>
 			</section>
-			<section class="location">
+			<section class="location" id="location">
 				<div class="container">
 					<div class="content">
 						<div class="p-head">
@@ -247,7 +265,7 @@
 								</table>
 							</div>
 							<div class="col">
-								<img src="/images/access/img_1.png" alt="アクセス">
+								<img src="/images/top/access/img_1.png" alt="アクセス">
 							</div>
 						</div>
 						<div class="row">
@@ -257,7 +275,7 @@
 							<div class="col">
 								<h4>駐車場のご案内</h4>
 								<div class="img-wrap">
-									<img src="/images/access/img_2.png" alt="駐車場のご案内">
+									<img src="/images/top/access/img_2.png" alt="駐車場のご案内">
 								</div>
 							</div>
 						</div>
@@ -297,7 +315,7 @@
 								</table>
 							</div>
 							<div class="col">
-								<img src="/images/access/img_3.png" alt="本 店">
+								<img src="/images/top/access/img_3.png" alt="本 店">
 							</div>
 						</div>
 						<ul class="cta-wrap">		

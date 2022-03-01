@@ -2,9 +2,34 @@
   Top
 ==================================*/
 #Top main {
-  margin: 300px 0 0;
+  margin: 120px 0 0;
+  .hero{
+    height: 700px;
+    width: 100%;
+    background-image: url(/images/top/hero/bg_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    .container{
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      height: inherit;
+      .content{
+        .img1{
+          position: relative;
+          left: -45px;
+          max-width: 973px;
+        }
+        .img2{
+          margin: 0 0 0 90px;
+          max-width: 627px;
+        }
+      }
+    }
+  }
   .treatment{
-    background-image: url(/images/treatment/bg_img.jpg);
+    background-image: url(/images/top/treatment/bg_img.jpg);
     background-size: contain;
     background-position: center center;
     background-repeat: repeat-y;
@@ -266,6 +291,12 @@
               .cta-wrap__link{
                 background: rgb(253,117,68);
                 background: linear-gradient(90deg, rgba(253,117,68,1) 5%, rgba(255,150,113,1) 50%, rgba(253,117,68,1) 95%);
+                background-size: 100% 100%;
+                transition: .3s ease;
+                &:hover{
+                  background-size: 200% 100%;
+                  animation: cta-btn 2s ease-in-out .5s infinite alternate;
+                }
               }
             }
             &:nth-child(2){
@@ -292,6 +323,12 @@
             letter-spacing: .02em;
             background: rgb(107,107,107);
             background: linear-gradient(90deg, rgba(107,107,107,1) 1%, rgba(148,148,148,1) 50%, rgba(107,107,107,1) 99%);
+            background-size: 100% 100%;
+            transition: .3s ease;
+            &:hover{
+              background-size: 200% 100%;
+              animation: cta-btn 2s ease-in-out .5s infinite alternate;
+            }
             &::after{
               content: "";
               display: block;

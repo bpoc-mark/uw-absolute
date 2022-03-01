@@ -128,6 +128,9 @@ header {
         box-sizing: border-box;
         color: #fff;
         letter-spacing: .08em;
+        &:hover{
+          opacity: .7;
+        }
         @include is-max(1320px){
           font-size: 13px;
         }
@@ -135,10 +138,21 @@ header {
           font-size: 11px;
         }
         &--linear-bg{ 
+          font-size: 15px;
           border-radius: 5px;
           padding: 11px 14px 12px;
           background: rgb(253,117,68);
           background: linear-gradient(90deg, rgba(253,117,68,1) 5%, rgba(255,150,113,1) 50%, rgba(253,117,68,1) 95%);
+          background-size: 100% 100%;
+          transition: .3s ease;
+          &:hover{
+            opacity: 1;
+            background-size: 200% 100%;
+            animation: cta-btn 2s ease-in-out .5s infinite alternate;
+          }
+          @include is-max(1320px){
+            font-size: 11px;
+          }
           @include is-max(1280px){
             padding: 11px 10px 12px;
           }

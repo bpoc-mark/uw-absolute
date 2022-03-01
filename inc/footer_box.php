@@ -10,7 +10,7 @@
 </div>
 
 <div id="pageTop">
-	<a href="">TOP</a>
+	<a href="#">TOP</a>
 </div>
 
 <ul class="footer-cta sp">

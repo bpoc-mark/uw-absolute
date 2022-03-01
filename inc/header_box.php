@@ -13,13 +13,13 @@ $str = explode('/', $url); ?>
 
 	<nav class="nav">
 		<ul class="nav--list">
-			<li class="nav--item"><a class="nav--link" href="/" <?php if ($str[1] == "") {
+			<li class="nav--item"><a class="nav--link" href="/#treatment" <?php if ($str[1] == "") {
 												echo ' class="here"';
 											} ?>>サロン紹介</a></li>
-			<li class="nav--item"><a class="nav--link" href="/" <?php if ($str[1] == "about") {
+			<li class="nav--item"><a class="nav--link" href="/#menu" <?php if ($str[1] == "about") {
 												echo ' class="here"';
 											} ?>>料金表</a></li>
-			<li class="nav--item"><a class="nav--link" href="/" <?php if ($str[1] == "about") {
+			<li class="nav--item"><a class="nav--link" href="/#location" <?php if ($str[1] == "about") {
 												echo ' class="here"';
 											} ?>>アクセス</a></li>				
 			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="/" <?php if ($str[1] == "about") {
