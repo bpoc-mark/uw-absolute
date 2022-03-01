@@ -3,6 +3,128 @@
 ==================================*/
 #Top main {
   margin: 300px 0 0;
+  .treatment{
+    background-image: url(/images/treatment/bg_img.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: repeat-y;
+    padding: 0 0 100px;
+    .container{
+      .content{
+        position: relative;
+        z-index: 2;
+        background-color: #ffffff;
+        box-shadow: 0px 0px 17px -5px rgba(0, 0, 0, 0.41);
+        padding: 80px 0;
+        margin: -55px 0 0;
+        .row{
+          align-items: center;
+          &.row-reverse{
+            flex-direction: row-reverse;
+            .col{
+              .img-wrap{
+                left: 0;
+                right: -30px;
+              }
+            }
+          }
+          &:not(:last-child){
+            margin: 0 0 70px;
+          }
+          &:nth-child(3){
+            .col{
+              .treatment-en{
+                margin: 7px 0 12px;
+              }
+            }
+          }
+          .col{
+            position: relative;
+            &:first-child{
+              width: 44%;
+            }
+            &:last-child{
+              padding: 0 60px 0;
+              width: 56%;
+            }
+            .treatment-jp{
+              text-align: center;
+              span{
+                font-weight: 700;
+                font-size: 24px;
+                color: #fff;
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                min-width: 200px;
+                height: 40px;
+                margin: 0 auto;
+                padding: 0 30px;
+                border-radius: 4px;
+                background: rgb(83,83,83);
+                background: linear-gradient(90deg, rgba(83,83,83,1) 1%, rgba(155,155,155,1) 75%);
+              }
+            }
+            .treatment-en{
+              @include IBM_Plex(500);
+              font-size: 16px;
+              letter-spacing: .04em;
+              text-align: center;
+              display: block;
+              color: #fd7544;
+              margin: 7px 0 24px;
+            }
+            h3{
+              font-weight: 700;
+              font-size: 34px;
+              letter-spacing: .03em;
+              line-height: 47.6px;
+              text-align: center;
+              margin: 0 0 19px;
+              color: #414141;
+              span{
+                display: block;
+                @include Noto_Sans(700);
+                font-size: 24px;
+                line-height: 31.2px;
+                color: #414141;
+                margin: 0;
+              }
+            }
+            .treatment-part{
+              margin: 0 0 17px;
+              line-height: 24px;
+              span{
+                font-weight: 700;
+                font-size: 18px;
+                letter-spacing: 0;
+                color: #414141;
+                background: rgb(255,235,123);
+                background: linear-gradient(0deg, rgba(255,235,123,1) 0%, rgba(255,235,123,1) 20%, rgba(155,155,155,0) 20%);
+              }
+            }
+            p{
+              font-size: 17px;
+              letter-spacing: .05em;
+              line-height: 34px;
+              text-align: justify;
+              span{
+                font-size: 14px;
+              }
+            }
+            .img-wrap{
+              display: block;
+              border-radius: 10px;
+              position: relative;
+              left: -30px;
+              width: 105%;
+              overflow: hidden;
+            }
+          }
+        }
+      }
+    }
+  }
   .menu{
     background-color: #fff;
     padding: 83px 0 45px;

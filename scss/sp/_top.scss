@@ -3,6 +3,123 @@
 ==================================*/
 #Top main {
   margin: 400px 0 0;
+  .treatment{
+    background-image: url(/images/treatment/bg_img.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: repeat-y;
+    padding: 0 0 50px;
+    .container{
+      .content{
+        position: relative;
+        z-index: 2;
+        background-color: #ffffff;
+        box-shadow: 0px 0px 17px -5px rgba(0, 0, 0, 0.41);
+        padding: 40px 0;
+        margin: -30px 0 0;
+        .row{
+          align-items: center;
+          &:not(:last-child){
+            margin: 0 0 40px;
+          }
+          &:nth-child(3){
+            .col{
+              .treatment-en{
+                margin: 7px 0 22px;
+              }
+            }
+          }
+          .col{
+            position: relative;
+            padding: 0 15px;
+            &:first-child{
+              width: 100%;
+              order: 2;
+            }
+            &:last-child{
+              width: 100%;
+              order: 1;
+            }
+            .treatment-jp{
+              text-align: center;
+              span{
+                font-weight: 700;
+                font-size: 18px;
+                color: #fff;
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                min-width: 165px;
+                height: 29px;
+                margin: 0 auto;
+                padding: 0 15px;
+                border-radius: 4px;
+                background: rgb(83,83,83);
+                background: linear-gradient(90deg, rgba(83,83,83,1) 1%, rgba(155,155,155,1) 75%);
+              }
+            }
+            .treatment-en{
+              @include IBM_Plex(500);
+              font-size: 14px;
+              letter-spacing: .04em;
+              text-align: center;
+              display: block;
+              color: #fd7544; 
+              margin: 5px 0 16px;
+            }
+            h3{
+              font-weight: 700;
+              font-size: 23px;
+              letter-spacing: 0;
+              line-height: 32.2px;
+              text-align: center;
+              margin: 0 0 19px;
+              color: #414141;
+              span{
+                display: block;
+                @include Noto_Sans(700);
+                font-size: 16px;
+                line-height: 22.4px;
+                color: #414141;
+                margin: 0 0 5px;
+              }
+            }
+            .treatment-part{
+              margin: 0 0 9px;
+              line-height: 27px;
+              span{
+                display: initial;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 27px;
+                letter-spacing: 0;
+                color: #414141;
+                background: rgb(255,235,123);
+                background: linear-gradient(0deg, rgba(255,235,123,1) 0%, rgba(255,235,123,1) 20%, rgba(155,155,155,0) 20%);
+              }
+            }
+            p{
+              font-size: 16px;
+              letter-spacing: .03em;
+              line-height: 30px;
+              text-align: justify;
+              span{
+                display: inline-block;
+                font-size: 12px;
+                line-height: 16.6px;
+              }
+            }
+            .img-wrap{
+              display: block;
+              border-radius: 5px;
+              overflow: hidden;
+              margin: 13px 0 0;
+            }
+          }
+        }
+      }
+    }
+  }
   .menu{
     background-color: #fff;
     padding: 45px 0 50px;

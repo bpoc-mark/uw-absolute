@@ -29,6 +29,86 @@
 		</header>
 
 		<main>
+			<section class="cta pb-100">
+				<div class="container">
+					<h3 class="cta--ttl">
+						<picture >
+							<source srcset="/images/cta/sp/txt_img.png" media="(max-width: 899px)">
+							<img src="/images/cta/txt_img.png" alt="まずはお気軽にお問い合わせください！">
+						</picture>
+					</h3>
+					<ul class="cta--list">
+						<li class="cta--list__item"><a class="cta--list__link" href="/">HOT PEPPERでご予約</a></li>
+						<li class="cta--list__item"><a class="cta--list__link" href="/"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
+						<li class="cta--list__item"><a class="cta--list__link" href="/">楽天ビューティーで予約</a></li>		
+						<li class="cta--list__item"><a class="cta--list__link" href="/"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
+					</ul>
+					<div class="cta--tel">
+						<p><span>21</span>時<br>まで営業</p>
+						<a class="cta--tel__num" href="tel:053-463-5101"><img src="/images/common/tel-icon.svg" alt="">053-463-5101</a>
+						<p>【受付時間】<br class="pc">平日・土  9:00〜21:00 ／ 不定休</p>
+					</div>
+				</div>
+			</section>
+			<section class="treatment">
+				<div class="container">
+					<div class="content">
+						<div class="row">
+							<div class="col">
+								<div class="img-wrap">
+									<img src="/images/treatment/img_1.jpg" alt="脱  毛">
+								</div>
+							</div>
+							<div class="col">
+								<h4 class="treatment-jp"><span>脱  毛</span></h4>
+								<span class="treatment-en">Hair removal</span>
+								<h3>浜松初導入！<br>早く結果が出る脱毛サロンです</h3>
+								<p>医療機器メーカー開発【美容美肌脱毛】浜松初導入！<br class="pc">業界最高峰出力の早く結果が出る脱毛！とにかくハイパワーで毛へのアプローチが強力です！抜ける！抜ける！終了まで最短6回。重ね打ち不要なので1回の施術時間が短く、同時に黒ずみやお肌のぷつぷつもケアできます。</p>
+							</div>
+						</div>
+						<div class="row row-reverse">
+							<div class="col">
+								<div class="img-wrap">
+									<img src="/images/treatment/img_2.jpg" alt="痩  身">
+								</div>
+							</div>
+							<div class="col">
+								<h4 class="treatment-jp"><span>痩  身</span></h4>
+								<span class="treatment-en">Slimming treatment</span>
+								<h3>溜め込む前に脂肪を<br>徹底燃焼＆分解！<br>肌の凸凹を整えなめらかに</h3>
+								<p>【お肉と凸凹潰し】脂肪を蓄えやすい時期も早めのケアが大切！<br>キャビテーション／ラジオ波／吸上げ／EMSなど様々な機能を持ち合わせた複合痩身マシンで脂肪撃退！筋膜リリース効果も！仕上げはマッサージで流します。</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col">
+								<div class="img-wrap">
+									<img src="/images/treatment/img_3.jpg" alt="ハーブピーリング">
+								</div>
+							</div>
+							<div class="col">
+								<h4 class="treatment-jp"><span>ハーブピーリング</span></h4>
+								<span class="treatment-en">Herb peeling</span>
+								<h3><span>ソフト・ミディアム・ハードタイプが選べる<br>ハーブピーリング</span>REVI陶肌トリートメント<br>２Bバイオトリートメント</h3>
+								<p class="treatment-part"><span>シミ／シワ／毛穴／たるみ／汗斑／ニキビ／ニキビ痕／黒ずみ  など</span></p>
+								<p>【浜松希少】お肌に優しいハーブピーリングで、毛穴の黒ずみ・くすみ・肌荒れ解消!ニキビケアにも◎浜松希少のカーボンピーリングやたるみ改善が自慢の2B BIO BEAUTYピーリングもあります！<br><span>※妊娠中の施術は要相談となります。 <br class="sp">※背中や身体にも施術可能です。</span></p>
+							</div>
+						</div>
+						<div class="row row-reverse">
+							<div class="col">
+								<div class="img-wrap">
+									<img src="/images/treatment/img_4.jpg" alt="陶肌トリートメント">
+								</div>
+							</div>
+							<div class="col">
+								<h4 class="treatment-jp"><span>陶肌トリートメント</span></h4>
+								<span class="treatment-en">Skin treatment</span>
+								<h3>REVI 陶肌トリートメント<br>導入サロン・代理店・認定講師募集</h3>
+								<p>静岡県内REVI導入サロン第一号店です。<br>新たにサロン導入したい方や、ご質問などはLINEか携帯にお問い合わせください。エステサロン、ネイルサロン、マツエクサロン、脱毛サロン、ホワイトニングサロン、美容室、整体、鍼灸、未経験の方、男性、女性、新たに開業する方などなど浜松市で研修受けれますよ。</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
 			<section class="menu">
 				<div class="container">
 					<div class="content">
