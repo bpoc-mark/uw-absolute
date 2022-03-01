@@ -17,6 +17,14 @@ $sp: 899px; // スマホ
     @content;
   }
 }
+
+// @include is-max()
+@mixin is-max($is-max) {
+  @media only screen and (max-width: $is-max) {
+      @content;
+  }
+}
+
 //@include mq(){}
 //で使えます。空の場合はmdで判断。
 //ブレイクポイントは必要な分だけ使ってください。1か所の場合はmdだけ残して数値を変えてください。

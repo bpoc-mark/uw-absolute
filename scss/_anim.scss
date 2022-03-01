@@ -71,3 +71,9 @@
   -o-transition-delay: 2100ms;
   -ms-transition-delay: 2100ms;
 }
+
+@keyframes cta-btn {
+  0%{background-position:200% 100%}
+  50%{background-position:0% 100%}
+  100%{background-position:100% 100%}
+}
