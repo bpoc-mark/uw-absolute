@@ -2,4 +2,143 @@
   Top
 ==================================*/
 #Top main {
+  margin: 300px 0 0;
+  .location{
+    background-color: #f6f1ea;
+    padding: 0 0 90px;
+    .container{
+      .content{
+        position: relative;
+        z-index: 2;
+        background-color: #ffffff;
+        box-shadow: 0px 0px 17px -5px rgba(0, 0, 0, 0.41);
+        padding: 68px 0 65px;
+        &:first-child{
+          margin: -55px 0 40px;
+        }
+        .row{
+          padding: 0 40px;
+          justify-content: space-between;
+          margin: 35px 0 0;
+          &:nth-child(2){
+            align-items: center;
+          }
+          .col{
+            &:first-child{
+              width: 53%;
+            }
+            &:last-child{
+              width: 45.5%;
+            }
+            table{
+              border: 1px solid #d7d7d7;
+              width: 100%;
+              tr{
+                display: flex;
+                flex-wrap: wrap;
+                &:not(:last-child){
+                  border-bottom: 1px solid #d7d7d7;
+                }
+                th{
+                  width: 147px;
+                  background-color: #343434;
+                  letter-spacing: .06em;
+                  color: #fff;
+                  text-align: left;
+                  padding: 20px 25px;
+                  font-weight: 500;
+                }
+                td{
+                  width: calc(100% - 147px);
+                  letter-spacing: .06em;
+                  text-align: left;
+                  padding: 20px 25px;
+                  a{
+                    color: #3c3c3c;
+                  }
+                }
+              }
+            }
+            h4{
+              background-color: #343434;
+              font-weight: 900;
+              font-size: 17px;
+              letter-spacing: .05em;
+              color: #fff;
+              text-align: center;
+              padding: 16px 0;
+            }
+            .img-wrap{
+              border: 1px solid #d7d7d7;
+              border-top: none;
+              padding: 25px 45px;
+            }
+            iframe{
+              height: 100%;
+            }
+          }
+        }
+        .cta-wrap{
+          padding: 0 40px;
+          margin: 40px 0 0;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          &__item{
+            &:nth-child(1){
+              width: 40%;
+              margin: 0 2% 0 0;
+              .cta-wrap__link{
+                background: rgb(253,117,68);
+                background: linear-gradient(90deg, rgba(253,117,68,1) 5%, rgba(255,150,113,1) 50%, rgba(253,117,68,1) 95%);
+              }
+            }
+            &:nth-child(2){
+              width: 28%;
+            }
+            &:nth-child(3){
+              width: 28%;
+              .cta-wrap__link{
+                @include IBM_Plex(500);
+              }
+            }
+          }
+          &__link{
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 60px;
+            border-radius: 4px;
+            font-weight: 700;
+            font-size: 18px;
+            color: #fff;
+            letter-spacing: .02em;
+            background: rgb(107,107,107);
+            background: linear-gradient(90deg, rgba(107,107,107,1) 1%, rgba(148,148,148,1) 50%, rgba(107,107,107,1) 99%);
+            &::after{
+              content: "";
+              display: block;
+              border-top: 4px solid transparent;
+              border-bottom: 4px solid transparent;
+              border-left: 9px solid #fff;
+              position: absolute;
+              top: 50%;
+              right: 40px;
+              -webkit-transform: translate(0, -50%);
+              transform: translate(0, -50%);
+              @include is-max(1000px){
+                right: 20px;
+              }
+            }
+            img{
+              width: 19px;
+              margin: 0 9px 0 0;
+            }
+          }
+        }
+      }
+    }
+  }
 }

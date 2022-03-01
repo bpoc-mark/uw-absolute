@@ -11,10 +11,10 @@ $(function () {
     };
   });
 
-  $('#menu-toggle').click(function () {
+  $('#nav_menu').click(function () {
     $('header').toggleClass('open');
     $(this).find('.line').toggleClass('show');
-    $('header nav').slideToggle();
+    // $('header nav').slideToggle();
     $('html').toggleClass('no_move');
   });
 
