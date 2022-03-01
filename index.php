@@ -29,6 +29,82 @@
 		</header>
 
 		<main>
+			<section class="menu">
+				<div class="container">
+					<div class="content">
+						<div class="p-head">
+							<h3 class="p-head--lg">MENU</h3>
+							<p class="p-head--sm">施術料金（初回料金）</p>
+						</div>
+						<div class="row">
+							<div class="col">
+								<h4>脱 毛</h4>
+								<ul class="price-row">
+									<li class="price-row--col">
+										<span class="name">VIO</span>
+										<span class="price">¥3,300</span>
+									</li>
+									<li class="price-row--col">
+										<span class="name">お顔</span>
+										<span class="price">¥3,800</span>
+									</li>
+									<li class="price-row--col">
+										<span class="name">全身</span>
+										<span class="price">¥6,600</span>
+									</li>
+								</ul>
+							</div>
+							<div class="col">
+								<h4>痩 身</h4>
+								<ul class="price-row">
+									<li class="price-row--col">
+										<span class="name">2ヶ所</span>
+										<span class="price">¥3,300</span>
+									</li>
+									<li class="price-row--col">
+										<span class="name">4ヶ所</span>
+										<span class="price">¥6,600</span>
+									</li>
+									<li class="price-row--col">
+										<span class="name">全身</span>
+										<span class="price">¥9,900</span>
+									</li>
+								</ul>
+							</div>
+							<div class="col">
+								<h4>骨盤矯正</h4>
+								<ul class="price-row">
+									<li class="price-row--col">
+										<span class="name">20分</span>
+										<span class="price">¥2,000</span>
+									</li>
+									<li class="price-row--col">
+										<span class="name">10分ごと</span>
+										<span class="price">+ ¥1,000</span>
+									</li>
+								</ul>
+							</div>
+							<div class="col">
+								<h4>REVI陶肌トリートメント</h4>
+								<ul class="price-row">
+									<li class="price-row--col">
+										<span class="name">オプション無し</span>
+										<span class="price">¥8,800</span>
+									</li>
+									<li class="price-row--col">
+										<span class="name">オプション有り</span>
+										<span class="price">¥11,000</span>
+									</li>
+									<li class="price-row--col">
+										<span class="name">ハードタイプ</span>
+										<span class="price">¥22,000</span>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
 			<section class="cta pb-100">
 				<div class="container">
 					<h3 class="cta--ttl">

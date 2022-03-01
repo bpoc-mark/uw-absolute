@@ -3,6 +3,59 @@
 ==================================*/
 #Top main {
   margin: 300px 0 0;
+  .menu{
+    background-color: #fff;
+    padding: 83px 0 45px;
+    .container{
+      .content{
+        .p-head{
+          margin: 0 0 55px;
+          &--lg{
+            letter-spacing: .25em;
+          }
+        }
+        .row{
+          justify-content: space-between;
+          .col{
+            position: relative;
+            width: 49%;
+            padding: 0 55px 26px;
+            background-color: #f6f1eb;
+            margin: 0 0 55px;
+            h4{
+              font-weight: 700;
+              font-size: 28px;
+              letter-spacing: .1em;
+              color: #fd7544;
+              text-align: center;
+              margin: -13px 0 44px;
+            }
+            .price-row{
+              &--col{
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                padding: 0 13px 14px;
+                &:not(:last-child){
+                  margin: 0 0 18px;
+                  border-bottom: 1px solid #e2d8cd;
+                }
+                .name{
+                  font-size: 17px;
+                  letter-spacing: .05em;
+                } 
+                .price{
+                  @include IBM_Plex(500);
+                  font-size: 17px;
+                  letter-spacing: .05em;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
   .location{
     background-color: #f6f1ea;
     padding: 0 0 90px;
