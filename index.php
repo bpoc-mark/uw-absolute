@@ -58,8 +58,8 @@
 					<ul class="cta--list">
 						<li class="cta--list__item"><a class="cta--list__link" href="https://beauty.hotpepper.jp/kr/slnH000559405/" target="_blank">HOT PEPPERでご予約</a></li>
 						<li class="cta--list__item"><a class="cta--list__link" href="https://line.me/R/ti/p/@530yhhgm" target="_blank"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
-						<li class="cta--list__item"><a class="cta--list__link" href="/" target="_blank">楽天ビューティーで予約</a></li>				
-						<li class="cta--list__item"><a class="cta--list__link" href="https://akiko0195.shopselect.net/" target="_blank">REVIオンラインショップ</a></li>		
+						<li class="cta--list__item"><a class="cta--list__link" href="#">楽天ビューティーで予約</a></li>				
+						<li class="cta--list__item"><a class="cta--list__link" href="https://akiko0195.shopselect.net/" target="_blank">オンラインショップ</a></li>		
 						<li class="cta--list__item"><a class="cta--list__link" href="https://www.instagram.com/accounts/login/?next=/absolute0195/" target="_blank"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
 					</ul>
 					<div class="cta--tel">
@@ -125,7 +125,6 @@
 								<p>静岡県内REVI導入サロン第一号店です。<br>新たにサロン導入したい方や、ご質問などはLINEか携帯にお問い合わせください。エステサロン、ネイルサロン、マツエクサロン、脱毛サロン、ホワイトニングサロン、美容室、整体、鍼灸、未経験の方、男性、女性、新たに開業する方などなど浜松市で研修受けれますよ。</p>
 							</div>
 						</div>
-						<a href="https://akiko0195.shopselect.net/" target="_blank">REVIオンラインショップはこちら</a>
 					</div>
 				</div>
 			</section>
@@ -216,8 +215,8 @@
 					<ul class="cta--list">
 						<li class="cta--list__item"><a class="cta--list__link" href="https://beauty.hotpepper.jp/kr/slnH000559405/" target="_blank">HOT PEPPERでご予約</a></li>
 						<li class="cta--list__item"><a class="cta--list__link" href="https://line.me/R/ti/p/@530yhhgm" target="_blank"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
-						<li class="cta--list__item"><a class="cta--list__link" href="/" target="_blank">楽天ビューティーで予約</a></li>				
-						<li class="cta--list__item"><a class="cta--list__link" href="https://akiko0195.shopselect.net/" target="_blank">REVIオンラインショップ</a></li>		
+						<li class="cta--list__item"><a class="cta--list__link" href="#">楽天ビューティーで予約</a></li>				
+						<li class="cta--list__item"><a class="cta--list__link" href="https://akiko0195.shopselect.net/" target="_blank">オンラインショップ</a></li>		
 						<li class="cta--list__item"><a class="cta--list__link" href="https://www.instagram.com/accounts/login/?next=/absolute0195/" target="_blank"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
 					</ul>
 					<div class="cta--tel">
@@ -340,8 +339,8 @@
 					<ul class="cta--list">
 						<li class="cta--list__item"><a class="cta--list__link" href="https://beauty.hotpepper.jp/kr/slnH000559405/" target="_blank">HOT PEPPERでご予約</a></li>
 						<li class="cta--list__item"><a class="cta--list__link" href="https://line.me/R/ti/p/@530yhhgm" target="_blank"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
-						<li class="cta--list__item"><a class="cta--list__link" href="/" target="_blank">楽天ビューティーで予約</a></li>				
-						<li class="cta--list__item"><a class="cta--list__link" href="https://akiko0195.shopselect.net/" target="_blank">REVIオンラインショップ</a></li>		
+						<li class="cta--list__item"><a class="cta--list__link" href="#">楽天ビューティーで予約</a></li>				
+						<li class="cta--list__item"><a class="cta--list__link" href="https://akiko0195.shopselect.net/" target="_blank">オンラインショップ</a></li>		
 						<li class="cta--list__item"><a class="cta--list__link" href="https://www.instagram.com/accounts/login/?next=/absolute0195/" target="_blank"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
 					</ul>
 					<div class="cta--tel">

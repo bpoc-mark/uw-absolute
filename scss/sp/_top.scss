@@ -142,37 +142,6 @@
             }
           }
         }
-        a{
-          position: relative;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          width: calc(100% - 30px);
-          height: 50px;
-          margin: 0 auto;
-          border-radius: 2px;
-          font-weight: 700;
-          font-size: 16px;
-          color: #fff;
-          letter-spacing: .02em;
-          background: rgb(253,117,68);
-          background: linear-gradient(90deg, rgba(253,117,68,1) 5%, rgba(255,150,113,1) 50%, rgba(253,117,68,1) 95%);
-          @include is-max(360px){
-            font-size: 13px;
-          }
-          &::after{
-            content: "";
-            display: block;
-            border-top: 4px solid transparent;
-            border-bottom: 4px solid transparent;
-            border-left: 9px solid #fff;
-            position: absolute;
-            top: 50%;
-            right: 10px;
-            -webkit-transform: translate(0, -50%);
-            transform: translate(0, -50%);
-          }
-        }
       }
     }
   }

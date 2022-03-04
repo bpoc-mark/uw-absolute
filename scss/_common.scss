@@ -122,6 +122,12 @@ header {
         &:nth-child(n+4){
           margin: 0 4px 0 0;
         }
+        &:nth-child(6){
+          .nav--link--linear-bg{
+            cursor: default;
+            pointer-events: none;
+          }
+        }
       }
       &--link{
         display: inline-block;

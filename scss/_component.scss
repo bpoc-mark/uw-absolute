@@ -369,6 +369,12 @@ img {
         &:nth-child(5){
           margin: 10px auto 0 10px;
         }
+        &:nth-child(3){
+          .cta--list__link{
+            cursor: default;
+            pointer-events: none;
+          }
+        }
       }
       @include sp{
         width: 100%;
