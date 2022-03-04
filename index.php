@@ -56,15 +56,16 @@
 						</picture>
 					</h3>
 					<ul class="cta--list">
-						<li class="cta--list__item"><a class="cta--list__link" href="/">HOT PEPPERでご予約</a></li>
-						<li class="cta--list__item"><a class="cta--list__link" href="/"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
-						<li class="cta--list__item"><a class="cta--list__link" href="/">楽天ビューティーで予約</a></li>		
-						<li class="cta--list__item"><a class="cta--list__link" href="/"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
+						<li class="cta--list__item"><a class="cta--list__link" href="https://beauty.hotpepper.jp/kr/slnH000559405/" target="_blank">HOT PEPPERでご予約</a></li>
+						<li class="cta--list__item"><a class="cta--list__link" href="https://line.me/R/ti/p/@530yhhgm" target="_blank"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
+						<li class="cta--list__item"><a class="cta--list__link" href="/" target="_blank">楽天ビューティーで予約</a></li>				
+						<li class="cta--list__item"><a class="cta--list__link" href="https://akiko0195.shopselect.net/" target="_blank">REVIオンラインショップ</a></li>		
+						<li class="cta--list__item"><a class="cta--list__link" href="https://www.instagram.com/accounts/login/?next=/absolute0195/" target="_blank"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
 					</ul>
 					<div class="cta--tel">
 						<p><span>21</span>時<br>まで営業</p>
 						<a class="cta--tel__num" href="tel:053-463-5101"><img src="/images/common/tel-icon.svg" alt="">053-463-5101</a>
-						<p>【受付時間】<br class="pc">平日・土  9:00〜21:00 ／ 不定休</p>
+						<p>【受付時間】 9:00～22：00<br>  ※祝日は営業  ／ 定休日　木曜・日曜 </p>
 					</div>
 				</div>
 			</section>
@@ -124,6 +125,7 @@
 								<p>静岡県内REVI導入サロン第一号店です。<br>新たにサロン導入したい方や、ご質問などはLINEか携帯にお問い合わせください。エステサロン、ネイルサロン、マツエクサロン、脱毛サロン、ホワイトニングサロン、美容室、整体、鍼灸、未経験の方、男性、女性、新たに開業する方などなど浜松市で研修受けれますよ。</p>
 							</div>
 						</div>
+						<a href="https://akiko0195.shopselect.net/" target="_blank">REVIオンラインショップはこちら</a>
 					</div>
 				</div>
 			</section>
@@ -212,15 +214,16 @@
 						</picture>
 					</h3>
 					<ul class="cta--list">
-						<li class="cta--list__item"><a class="cta--list__link" href="/">HOT PEPPERでご予約</a></li>
-						<li class="cta--list__item"><a class="cta--list__link" href="/"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
-						<li class="cta--list__item"><a class="cta--list__link" href="/">楽天ビューティーで予約</a></li>		
-						<li class="cta--list__item"><a class="cta--list__link" href="/"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
+						<li class="cta--list__item"><a class="cta--list__link" href="https://beauty.hotpepper.jp/kr/slnH000559405/" target="_blank">HOT PEPPERでご予約</a></li>
+						<li class="cta--list__item"><a class="cta--list__link" href="https://line.me/R/ti/p/@530yhhgm" target="_blank"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
+						<li class="cta--list__item"><a class="cta--list__link" href="/" target="_blank">楽天ビューティーで予約</a></li>				
+						<li class="cta--list__item"><a class="cta--list__link" href="https://akiko0195.shopselect.net/" target="_blank">REVIオンラインショップ</a></li>		
+						<li class="cta--list__item"><a class="cta--list__link" href="https://www.instagram.com/accounts/login/?next=/absolute0195/" target="_blank"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
 					</ul>
 					<div class="cta--tel">
 						<p><span>21</span>時<br>まで営業</p>
 						<a class="cta--tel__num" href="tel:053-463-5101"><img src="/images/common/tel-icon.svg" alt="">053-463-5101</a>
-						<p>【受付時間】<br class="pc">平日・土  9:00〜21:00 ／ 不定休</p>
+						<p>【受付時間】 9:00～22：00<br>  ※祝日は営業  ／ 定休日　木曜・日曜 </p>
 					</div>
 				</div>
 			</section>
@@ -265,12 +268,12 @@
 								</table>
 							</div>
 							<div class="col">
-								<img src="/images/top/access/img_1.png" alt="アクセス">
+								<img src="/images/top/access/img_1.jpg" alt="アクセス">
 							</div>
 						</div>
 						<div class="row">
 							<div class="col">
-								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.86849995382!2d137.75349581559462!3d34.733708888956606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601ade24ee161a65%3A0x49986758c8fdd63!2zSmFwYW4sIOOAkjQzNS0wMDU3IFNoaXp1b2thLCBIYW1hbWF0c3UsIEhpZ2FzaGkgV2FyZCwgTmFrYWRhY2jFjSwgNjLiiJIy!5e0!3m2!1sen!2sph!4v1646096627027!5m2!1sjp!2sjp" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.86849995382!2d137.75349581559462!3d34.733708888956606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601ade24ee161a65%3A0x49986758c8fdd63!2zSmFwYW4sIOOAkjQzNS0wMDU3IFNoaXp1b2thLCBIYW1hbWF0c3UsIEhpZ2FzaGkgV2FyZCwgTmFrYWRhY2jFjSwgNjLiiJIy!5e0!3m2!1sjp!2sjp!4v1646096627027!5m2!1sjp!2sjp" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 							</div>
 							<div class="col">
 								<h4>駐車場のご案内</h4>
@@ -315,13 +318,13 @@
 								</table>
 							</div>
 							<div class="col">
-								<img src="/images/top/access/img_3.png" alt="本 店">
+								<img src="/images/top/access/img_3.jpg" alt="本 店">
 							</div>
 						</div>
 						<ul class="cta-wrap">		
-							<li class="cta-wrap__item"><a class="cta-wrap__link" href="/">本店への予約はこちら</a></li>		
-							<li class="cta-wrap__item"><a class="cta-wrap__link" href="/">ブログを見る</a></li>		
-							<li class="cta-wrap__item"><a class="cta-wrap__link" href="/"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
+							<li class="cta-wrap__item"><a class="cta-wrap__link" href="https://hamamatsu.mypl.net/shop/00000363255/" target="_blank">本店への予約はこちら</a></li>		
+							<li class="cta-wrap__item"><a class="cta-wrap__link" href="https://akiko0195.hamazo.tv/" target="_blank">ブログを見る</a></li>		
+							<li class="cta-wrap__item"><a class="cta-wrap__link" href="https://www.instagram.com/accounts/login/?next=/bubu0195/" target="_blank"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
 						</ul>
 					</div>
 				</div>
@@ -335,15 +338,16 @@
 						</picture>
 					</h3>
 					<ul class="cta--list">
-						<li class="cta--list__item"><a class="cta--list__link" href="/">HOT PEPPERでご予約</a></li>
-						<li class="cta--list__item"><a class="cta--list__link" href="/"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
-						<li class="cta--list__item"><a class="cta--list__link" href="/">楽天ビューティーで予約</a></li>		
-						<li class="cta--list__item"><a class="cta--list__link" href="/"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
+						<li class="cta--list__item"><a class="cta--list__link" href="https://beauty.hotpepper.jp/kr/slnH000559405/" target="_blank">HOT PEPPERでご予約</a></li>
+						<li class="cta--list__item"><a class="cta--list__link" href="https://line.me/R/ti/p/@530yhhgm" target="_blank"><img src="/images/common/line-icon.svg" alt="">LINEでご予約</a></li>			
+						<li class="cta--list__item"><a class="cta--list__link" href="/" target="_blank">楽天ビューティーで予約</a></li>				
+						<li class="cta--list__item"><a class="cta--list__link" href="https://akiko0195.shopselect.net/" target="_blank">REVIオンラインショップ</a></li>		
+						<li class="cta--list__item"><a class="cta--list__link" href="https://www.instagram.com/accounts/login/?next=/absolute0195/" target="_blank"><img src="/images/common/ig-icon.svg" alt="">Instagram</a></li>													
 					</ul>
 					<div class="cta--tel">
 						<p><span>21</span>時<br>まで営業</p>
 						<a class="cta--tel__num" href="tel:053-463-5101"><img src="/images/common/tel-icon.svg" alt="">053-463-5101</a>
-						<p>【受付時間】<br class="pc">平日・土  9:00〜21:00 ／ 不定休</p>
+						<p>【受付時間】 9:00～22：00<br>  ※祝日は営業  ／ 定休日　木曜・日曜 </p>
 					</div>
 				</div>
 			</section>
