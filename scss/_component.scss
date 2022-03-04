@@ -324,7 +324,7 @@ img {
   }
   &.pb-100{
     .container{
-      padding-bottom: 100px;
+      padding-bottom: 120px;
       @include sp{
         padding-bottom: 60px;
       }
@@ -362,17 +362,12 @@ img {
     }
     &__item{
       @include pc{
-        &:nth-child(1){
-          width: 24%;
-        }
-        &:nth-child(2){
-          width: 23.5%;
-        }
-        &:nth-child(3){
-          width: 26%;
-        }
+        width: 32%;
         &:nth-child(4){
-          width: 23%;
+          margin: 10px 10px 0 auto;
+        }
+        &:nth-child(5){
+          margin: 10px auto 0 10px;
         }
       }
       @include sp{
@@ -468,7 +463,7 @@ img {
         font-weight: 700;
         font-size: 16px;
         line-height: 23px;
-        margin: 0 0 0 9px;
+        margin: 5px 0 0 9px;
         @include sp{
           width: 100%;
           font-size: 12px;

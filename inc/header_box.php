@@ -22,16 +22,16 @@ $str = explode('/', $url); ?>
 			<li class="nav--item"><a class="nav--link" href="/#location" <?php if ($str[1] == "about") {
 												echo ' class="here"';
 											} ?>>アクセス</a></li>				
-			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="/" <?php if ($str[1] == "about") {
+			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="https://beauty.hotpepper.jp/kr/slnH000559405/" target="_blank" <?php if ($str[1] == "about") {
 												echo ' class="here"';
 											} ?>>HOT PEPPERでご予約</a></li>
-			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="/" <?php if ($str[1] == "about") {
+			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="https://line.me/R/ti/p/@530yhhgm" target="_blank" <?php if ($str[1] == "about") {
 												echo ' class="here"';
 											} ?>><img src="/images/common/line-icon.svg" class="sp" alt="">LINEでご予約</a></li>			
-			<li class="nav--item pc"><a class="nav--link nav--link--linear-bg" href="/" <?php if ($str[1] == "about") {
+			<li class="nav--item pc"><a class="nav--link nav--link--linear-bg" href="/" target="_blank" <?php if ($str[1] == "about") {
 												echo ' class="here"';
 											} ?>>楽天ビューティーで予約</a></li>		
-			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="/" <?php if ($str[1] == "about") {
+			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="https://www.instagram.com/absolute0195/" target="_blank" <?php if ($str[1] == "about") {
 												echo ' class="here"';
 											} ?>><img src="/images/common/ig-icon.svg" class="sp" alt="">Instagram<span class="sp">でご予約</span></a></li>													
 		</ul>
