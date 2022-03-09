@@ -18,6 +18,13 @@ $(function () {
     $('html').toggleClass('no_move');
   });
 
+  $('.nav--list .nav--item:nth-child(1) .nav--link, .nav--list .nav--item:nth-child(2) .nav--link, .nav--list .nav--item:nth-child(3) .nav--link').click(function () {
+    $('header').toggleClass('open');
+    $('#nav_menu').find('.line').toggleClass('show');
+    // $('header nav').slideToggle();
+    $('html').toggleClass('no_move');
+  });
+
   var w = $(window).width();
   if (w < 900) {
 
@@ -94,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function () {
 // Webfont読込
 window.WebFontConfig = {
   google: {
-    families: ['IBM+Plex+Serif:300,400,500,700','Folk+Pro:300,400,500,700', 'Noto+Sans+JP:300,400,500,700&subset=japanese']
+    families: ['IBM+Plex+Serif:300,400,500,700','Folk+Pro:300,400,500,700', 'Noto+Sans+JP:300,400,,600,700&subset=japanese']
   },
   active: function () {
     sessionStorage.fonts = true;

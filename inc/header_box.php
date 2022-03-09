@@ -28,17 +28,20 @@ $str = explode('/', $url); ?>
 			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="https://line.me/R/ti/p/@530yhhgm" target="_blank" <?php if ($str[1] == "") {
 												echo ' class="here"';
 											} ?>><img src="/images/common/line-icon.svg" class="sp" alt="">LINEでご予約</a></li>			
-			<li class="nav--item pc"><a class="nav--link nav--link--linear-bg" href="#"  <?php if ($str[1] == "") {
+			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="#"  <?php if ($str[1] == "") {
 												echo ' class="here"';
-											} ?>>楽天ビューティーで予約</a></li>		
+											} ?>>楽天ビューティーで予約</a></li>	
+			<li class="nav--item sp"><a class="nav--link nav--link--linear-bg" href="https://akiko0195.shopselect.net/" target="_blank" <?php if ($str[1] == "") {
+												echo ' class="here"';
+											} ?>>オンラインショップ</a></li>	
 			<li class="nav--item"><a class="nav--link nav--link--linear-bg" href="https://www.instagram.com/absolute0195/" target="_blank" <?php if ($str[1] == "") {
 												echo ' class="here"';
 											} ?>><img src="/images/common/ig-icon.svg" class="sp" alt="">Instagram<span class="sp">でご予約</span></a></li>													
 		</ul>
 		<div class="tel">
-			<p><span>21</span>時<br>まで営業</p>
+			<p><span>22</span>時<br>まで営業</p>
 			<a class="tel-num" href="tel:053-463-5101"><img src="/images/common/tel-icon.svg" alt="">053-463-5101</a>
-			<p>【受付時間】<br class="pc">平日・土  9:00〜21:00 ／ 不定休</p>
+			<p>【受付時間】<br class="pc">9:00～22：00 <br class="sp">※祝日は営業 / 木・日定休</p>
 		</div>
 	</nav>
 

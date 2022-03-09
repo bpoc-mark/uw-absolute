@@ -107,7 +107,7 @@
 							<div class="col">
 								<h4 class="treatment-jp"><span>ハーブピーリング</span></h4>
 								<span class="treatment-en">Herb peeling</span>
-								<h3><span>ソフト・ミディアム・ハードタイプが選べる<br>ハーブピーリング</span>REVI陶肌トリートメント<br>２Bバイオトリートメント</h3>
+								<h3><span>ソフト・ミディアム・ハードタイプ<br>が選べるハーブピーリング</span>REVI陶肌トリートメント<br>２Bバイオトリートメント</h3>
 								<p class="treatment-part"><span>シミ／シワ／毛穴／たるみ／汗斑／ニキビ／ニキビ痕／黒ずみ  など</span></p>
 								<p>【浜松希少】お肌に優しいハーブピーリングで、毛穴の黒ずみ・くすみ・肌荒れ解消!ニキビケアにも◎浜松希少のカーボンピーリングやたるみ改善が自慢の2B BIO BEAUTYピーリングもあります！<br><span>※妊娠中の施術は要相談となります。 <br class="sp">※背中や身体にも施術可能です。</span></p>
 							</div>
